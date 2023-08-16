@@ -1,0 +1,94 @@
+.register {
+    background: #0553e6;
+    border-radius: 3px;
+}
+
+.login {
+    border-radius: 3px;
+    color: #1DC68C;
+}
+
+#bg1 {
+    background-color: #1DC68C;
+}
+
+#button1 {
+    background-color: #eff1f0;
+    color: #1DC68C;
+    border-color: none;
+    border-radius: 10px;
+}
+
+#cardtitle {
+    color: #1DC68C;
+}
+
+#li {
+    list-style-image: url(img/android.svg);
+}
+#li1 {
+    list-style-image: url(img/home-run.svg);
+}
+#li2 {
+    list-style-image: url(img/source-code.svg);
+}
+#li3 {
+    list-style-image: url(img/phone.svg);
+}
+
+
+.text {
+    font-size: 20px;
+}
+.money {
+    color: #1DC68C;
+}
+
+#lead {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#purchase {
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #eff1f0;
+    margin-top: -1px;
+    border-color: #0553e6;
+    border-radius: 5px;
+    color: #1DC68C;
+
+}
+
+#purchasecard {
+    border-radius: 15px;
+}
+
+#parentapp {
+    background-color: #eff1f0;
+    color: #1DC68C;
+}
+#driverapp {
+    background-color: #1DC68C;
+}
+#schooladmin {
+    background-color: #eff1f0;
+    color: #1DC68C;
+}
+
+#h11 {
+    font-weight: bolder;
+}
+
+#lastsection {
+    background-color: #1DC68C;
+}
+
+#form {
+    background-color: #eff1f0;
+    border-radius: 10px;
+}
+
+#footerlink {
+    font-weight: bold;
+}
